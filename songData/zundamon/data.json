@@ -1,0 +1,20 @@
+{
+	"title"		:"踊ってない夜をしらないずんだもんBB",
+	"bpm"		:172,
+	"beat"		:4,
+	"condition"	:75,
+	"timing"	:
+	[
+		{"interval":3.5	, "filename":"0"},
+		{"interval":4	, "filename":"1"},
+		{"interval":4	, "filename":"0"},
+		{"interval":4	, "filename":"1"},
+		
+		{"interval":4	, "filename":"0"},
+		{"interval":4	, "filename":"1"},
+		{"interval":4	, "filename":"0"},
+		{"interval":4	, "filename":"1"},
+
+		{"interval":8	, "filename":"0"}
+	]
+}
